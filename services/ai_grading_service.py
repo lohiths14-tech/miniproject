@@ -1,6 +1,3 @@
-        test_cases (list): List of test cases with input and expected output
-        programming_language (str): Programming language (python, java, cpp, etc.)
-        user_id (str): User ID for gamification integration
 
     Returns:
         dict: Comprehensive grading result with score, feedback, analysis, and achievements
