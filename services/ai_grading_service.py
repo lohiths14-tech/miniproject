@@ -1,6 +1,6 @@
 from services.code_analysis_service import code_analyzer
 from services.gamification_service import gamification_service
-from utils.code_executor import run_test_cases
+
 import logging
 
 logger = logging.getLogger(__name__)
